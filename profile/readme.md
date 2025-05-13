@@ -33,4 +33,4 @@ We welcome contributions! If you've created a script that could benefit the comm
 
 ---
 
-Maintained by @DarkSylver and the Cloud Studio IoT team.
+Maintained by [@DarkSylver](https://github.com/DarkSylver) and the Cloud Studio IoT team.
